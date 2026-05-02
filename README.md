@@ -1,2 +1,3 @@
 # python-iris
-it is isn't good.don't watch it.
+其实不是神经网络
+而是在其之外的一种基于统计的伪做法
